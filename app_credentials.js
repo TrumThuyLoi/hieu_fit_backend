@@ -1,3 +1,3 @@
 module.exports = {
-  // your adminsdk.json here
+  // value of your adminsdk.json here
 }
